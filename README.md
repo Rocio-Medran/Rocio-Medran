@@ -1,19 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Rocio-Medran/Rocio-Medran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Rocio+Medran;Software+Developer;Backend+Developer;Fullstack+Developer;%40rociomedran">
+</p>
 
-Here are some ideas to get you started:
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning **Backend Development**
+
+- 👩‍💻 Explore my projects at [rociomedran.netlify.app](https://rociomedran.netlify.app)
+
+- 💬 Ask me about **React,React Native, Next.js, Node.js**
+
+- 📫 Reach me at **rociomedran9@gmail.com**
+
+- 📄 Learn more about my experiences at [medran-rocio-cv.netlify.app](https://medran-rocio-cv.netlify.app/es/)
+
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 

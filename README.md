@@ -11,7 +11,7 @@
 
 - 👩‍💻 Explore my projects at [rociomedran.netlify.app](https://rociomedran.netlify.app)
 
-- 💬 Ask me about **React,React Native, Next.js, Node.js**
+- 💬 Ask me about **Node.js, Express, .NET, REST APIs, PostgreSQL**
 
 - 📫 Reach me at **rociomedran9@gmail.com**
 
